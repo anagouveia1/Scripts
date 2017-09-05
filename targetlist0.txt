@@ -1,0 +1,25 @@
+C:\Scripts\DiskCleanUp.txt
+C:\Scripts\FileList
+C:\Scripts\FileList FileName.xlsx
+C:\Scripts\MKDir VBA.xlsx
+C:\Scripts\nestbatch.bat
+C:\Scripts\path.bat
+C:\Scripts\pathlist.bat
+C:\Scripts\Python
+C:\Scripts\script 1
+C:\Scripts\sourcelist.txt
+C:\Scripts\targetlist.txt
+C:\Scripts\targetlist0.txt
+C:\Scripts\updatedlist.txt
+C:\Scripts\Python\FileZilla
+C:\Scripts\Python\jstack.txt
+C:\Scripts\Python\path.bat
+C:\Scripts\Python\Portfolio
+C:\Scripts\Python\Revit
+C:\Scripts\Python\sourcelist.txt
+C:\Scripts\Python\Sweet
+C:\Scripts\Python\TargetFolder.py
+C:\Scripts\Python\targetlist0.txt
+C:\Scripts\Python\targetlist1.txt
+C:\Scripts\Python\updatedlist.txt
+C:\Scripts\Python\WebDesign

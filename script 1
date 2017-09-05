@@ -1,0 +1,13 @@
+echo Computer Engineer <3
+REM This is How this originally started, the rest was made up by mind flowing through these many ideas I've been carrying through life:
+
+REM Original Batch Script Started on [8.17.2017] ARG Boston MA
+REM How to Sort All Files in The COMPUTER based on their extensions :) I mean, the ones I really need to use & sort.
+
+REM Let's start with organizing my computer to make sure my information is well protected. Things I used to think as a kid when I was told about how computers worked.
+
+REM So there's the Hardware part.
+REM Then there's the Software part.
+
+
+for /r C:\ %f in (*.jpg) do @copy "%f" D:\pictures\

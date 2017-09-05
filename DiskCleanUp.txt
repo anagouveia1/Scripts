@@ -1,0 +1,6 @@
+#Copy Files From Local Documents to AnaGouveia 
+#Copy Files from Ana Gouveia and other C:\ Folders (Apps) To One Drive
+#Delete Local Documents (remove [])
+
+#Create a Partition D:
+#Copy Files By Extension in Folders ;)
